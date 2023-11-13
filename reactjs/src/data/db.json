@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+       "item": "Rice"
+    },
+    {
+      "id": 2,
+      "checked": false,
+       "item": "Chips"
+    },
+    {
+      "id": 3,
+      "checked": false,
+       "item": "Chapati"
+    },
+    {
+      "id": 4,
+      "checked": false,
+       "item": "Ugali"
+    }
+  ]
+}
